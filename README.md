@@ -18,7 +18,7 @@ Tujuan saya adalah membuat aplikasi yang bermanfaat dan mudah digunakan. ✨
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 Aktivitas GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tegarkatresna&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarkatresna&theme=tokyonight&hide_border=true" height="160" />
