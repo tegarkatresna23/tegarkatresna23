@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Halo, saya Tegar Katresna
 
-<!--
-**tegarkatresna23/tegarkatresna23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya!  
+Saya sedang belajar coding dan web development 🚀
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- PHP / Laravel
+- JavaScript
+- React & Tailwind CSS
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegarkatresna23&show_icons=true&theme=radical)
+
+## 📫 Kontak
+- GitHub: [tegarkatresna23](https://github.com/tegarkatresna23)
