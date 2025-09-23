@@ -1,34 +1,28 @@
-# 👋 Halo, saya **Tegar Katresna**
+# 👨‍💻 Tegar Katresna
 
-Selamat datang di profil GitHub saya!  
-Saya seorang pengembang web yang senang belajar hal baru dan berbagi kode untuk komunitas. 🚀
-
----
-
-## 🔥 Tentang Saya
-- 🌱 Saat ini belajar **Laravel, PHP, dan JavaScript**  
-- 💡 Tertarik pada **pengembangan web & open source**  
-- 🎯 Tujuan: Menjadi **Fullstack Developer**  
-- ⚡ Fakta unik: suka ngoding sambil dengerin musik 🎧  
+Halo! Saya seorang pengembang web yang suka membangun aplikasi dan terus belajar teknologi baru.  
+Fokus utama saya saat ini adalah **PHP (Laravel)** dan **JavaScript**.  
 
 ---
 
-## 🛠️ Teknologi yang Saya Gunakan
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
-</p>
+## 🚀 Fokus Belajar
+- Backend: Laravel, MySQL  
+- Frontend: HTML, CSS, JavaScript  
+- Tools: Git & GitHub, VS Code  
 
 ---
 
-## 📊 Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=tegarkatresna&show_icons=true&theme=tokyonight&hide_border=true)
+## 📈 Aktivitas di GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=tegarkatresna&show_icons=true&theme=default)
+
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarkatresna&layout=compact&theme=default)
 
 ---
 
-## 🌐 Hubungi Saya
-- 💻 [GitHub](https://github.com/tegarkatresna)  
-- ✉️ Email: tegarkatresna@example.com  
+## 📬 Kontak
+- ✉️ Email: **tegarkatresna@example.com**  
+- 🌐 GitHub: [github.com/tegarkatresna](https://github.com/tegarkatresna)  
 
 ---
 
-✨ Terima kasih sudah mampir ke profil saya!
+_"Belajar setiap hari, berbagi setiap saat."_ ✨
