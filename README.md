@@ -1,7 +1,7 @@
-<!-- Nama dengan animasi -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7928CA&center=true&vCenter=true&width=500&lines=Halo,+Saya+Tegar+Katresna;Selamat+Datang+di+Profil+GitHub+Saya!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF0080&center=true&vCenter=true&width=550&lines=Halo,+Saya+Tegar+Katresna;Pengembang+Web+%F0%9F%92%BB;Belajar+Fullstack+Developer+🚀;Selamat+Datang+di+Profil+GitHub+Saya!" alt="Typing SVG" />
 </h1>
+
 
 ---
 
