@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Fullstack+Web+Developer+Pemula;Laravel+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" />
 </p>
 
-<p align="center"><em>"Belajar setiap hari, berbagi setiap saat."</em><br>— Tegar Katresna, sedang merakit masa depan dengan <code>php artisan serve</code> dan <code>git commit -m "grow"</code></p>
+<p align="center"><em>"Koding bukan sekadar pekerjaan, tapi cara saya mengekspresikan ide."</em><br>— Tegar Katresna, membangun masa depan satu <code>commit</code> sekaligus</p>
 
 
 
