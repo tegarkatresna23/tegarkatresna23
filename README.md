@@ -1,59 +1,60 @@
-<!-- Banner / Header -->
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=Tegar%20Katresna&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+
+<!-- Intro -->
+<h2 align="center">👋 Welcome to My GitHub Profile!</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:5f27cd&height=200&section=header&text=Tegar%20Katresna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=5f27cd&center=true&vCenter=true&width=600&lines=👋+Halo,+saya+Tegar+Katresna!" />
-</h2>
-
-<p align="center">💻 Sedang belajar <b>Web Development</b> 🚀</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,mysql,git,github,vscode" />
+  <samp>
+    🚀 Web Developer | 💻 Open Source Enthusiast | 🌱 Lifelong Learner
+  </samp>
 </p>
 
 ---
 
-## 📊 Statistik GitHub
+## 🔥 About Me  
+- 🌱 Currently learning **Laravel, PHP, JavaScript**  
+- 💡 Love building **useful web apps** and sharing with the world  
+- 🎯 Goal: Becoming a **Fullstack Developer**  
+- ⚡ Fun fact: I enjoy coding while listening to lo-fi 🎵  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegarkatresna23&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarkatresna23&theme=radical" height="165" />
-</p>
+---
 
+## 🛠️ Tech & Tools  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarkatresna23&layout=compact&theme=radical" height="165" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,bootstrap,tailwind" />
 </p>
 
 ---
 
-## 🚀 Kutipan Favorit
-
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF2D20&center=true&vCenter=true&width=700&lines=“Ngomong+itu+mudah.+Tunjukkan+kodinganmu.”;Belajar+setiap+hari,+selangkah+lebih+maju!;Coding+adalah+petualangan+yang+tak+ada+habisnya+🚀" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tegarkatresna&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegarkatresna&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 📫 Hubungi Saya
-
+## 🎨 Top Languages  
 <p align="center">
-  <a href="https://github.com/tegarkatresna23">
-    <img src="https://img.shields.io/badge/GitHub-tegarkatresna23-181717?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarkatresna&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://github.com/tegarkatresna">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:tegarkatresna23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Kontak%20Saya-blue?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/tegarkatresna">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tegarkatresna@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f27cd,100:FF6B6B&height=120&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer" />
