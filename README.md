@@ -4,9 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Fullstack+Web+Developer+Pemula;" alt="Typing SVG" />
 </p>
 
+<!-- Tambahkan gambar utama -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/84/9c/7a/849c7a9e176dbf3a9a9f3f3d3f.png" alt="Coding" width="400"/>
+</p>
+
 <p align="center"><em>"Koding bukan sekadar pekerjaan, tapi cara saya mengekspresikan ide."</em><br>Tegar Katresna, membangun masa depan satu <code>commit</code> sekaligus</p>
-
-
 
 ---
 
@@ -20,8 +23,6 @@ Tujuan saya adalah membuat aplikasi yang bermanfaat dan mudah digunakan. ✨
 - 🌐 **Frontend**: HTML, CSS, JavaScript, Tailwind  
 - ⚙️ **Backend**: PHP (Laravel), MySQL  
 - 🛠️ **Alat**: Git, GitHub, VS Code  
-
----
 
 ---
 
