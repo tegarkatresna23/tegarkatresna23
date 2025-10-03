@@ -5,9 +5,7 @@
 </p>
 
 <!-- Tambahkan gambar utama -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/code/code.png" alt="Coding" width="400"/>
-</p>
+
 
 <p align="center"><em>"Koding bukan sekadar pekerjaan, tapi cara saya mengekspresikan ide."</em><br>
 Tegar Katresna, membangun masa depan satu <code>commit</code> sekaligus 🚀</p>
